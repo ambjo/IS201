@@ -1,0 +1,169 @@
+.marginfixed{  
+    padding-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.marginadjustments{
+    padding-right: 30px;
+    padding-bottom: 0px;
+}
+
+.margin1{
+    padding-right: 0px;
+    padding-left: 128px;
+    padding-top: 0px;
+    padding-bottom: 200px;
+    margin-bottom: 200px;
+}
+
+.margin3{
+    padding-right: 129px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 200px;
+    margin-bottom: 200px;
+}
+
+.margin2{
+    padding-right: 78px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.margin4{
+    padding-left: 78px;
+    padding-top: 0px;
+}
+
+.margin5{
+    margin-right: -150px;
+    padding-right: 0px;
+}
+
+.margin6{
+    margin-right: -235px;
+    padding-right: 0px;
+    padding-bottom: -50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.margin7{
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 100px;
+    white-space: nowrap;
+}
+
+.margin8{
+    padding-right: 0px;
+    padding-left: 5px;
+    padding-bottom: 100px;
+    white-space: nowrap;
+    line-height: 0.8;
+}
+
+.margin9{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 100px;
+    white-space: nowrap;
+    line-height: 0.8;
+
+}
+
+.margin10{
+    padding-left: 20px;
+    white-space: nowrap;
+    line-height: 0.8;
+    padding-bottom: 100px;
+}
+
+.margin11{
+    padding-top: -50px;
+    margin-top: 0px;
+}
+
+.margin12  {
+    padding-top: -30px;
+    margin-top: -30px;
+    margin-left: 100px;
+    padding-left: 100px;
+}
+
+.margin13{
+    padding-right: 10px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 100px;
+    white-space: nowrap;
+}
+
+.margin14{
+    padding-right: 350px;
+    padding-left: 10px;
+    padding-bottom: 100px;
+    white-space: nowrap;
+    line-height: 0.8;
+}
+
+.margin15{
+    padding-left: 25px;
+    white-space: nowrap;
+    line-height: 0.8;
+    padding-bottom: 100px;
+}
+
+.margin16{
+    padding-right: 150px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+.margin17{
+    padding-right: 118px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+.margin18{
+    padding-right: 173px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+.tab{
+    margin-left: 40px;
+}
+
+.labelfont{
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.educationfont {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.schoolfont{ 
+    font-size: 19px;
+    margin-top: 2px;
+    margin-bottom: 0;
+}
+
+.yearfont {
+    font-size: 15px;
+    margin-top: 2px;
+}
+
+.detailsfont{
+    font-size: 19px;
+}
+
+.detailsfont{
+    font-size: 17px;
+}

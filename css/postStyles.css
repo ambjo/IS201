@@ -1,0 +1,163 @@
+body{ 
+    background-color: rgb(243,239,236);
+    position: absolute
+}
+
+.navigationbar{ 
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.navigationstyle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navlook1 { 
+    text-decoration: none;
+    color: black;
+    position: fixed; RIGHT: 380px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook1:visited{ 
+    text-decoration: none;
+    color: black;
+    position: fixed; RIGHT: 380px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook2 { 
+    text-decoration: none;
+    color: black;
+    position: fixed; right: 240px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook2:visited{ 
+    text-decoration: none;
+    color: black;
+    position: fixed; right: 240px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook3 { 
+    text-decoration: none;
+    color: black;
+    position: fixed; right: 150px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook3:visited{ 
+    text-decoration: none;
+    color: black;
+    position: fixed; right: 150px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook4 { 
+    text-decoration: none;
+    color: black;
+    position: fixed; right: 20px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook4:visited{ 
+    text-decoration: none;
+    color: black;
+    position: fixed; right: 20px; top: 20px;
+    font-size: 25px;
+}
+
+.navlook1:hover{ 
+    color: black;
+}
+
+.navlook2:hover{ 
+    color: black;
+}
+
+.navlook3:hover{ 
+    color: black;
+}
+
+.navlook4:hover{ 
+    color: black;
+}
+
+.titlelook{ 
+    font-family: myFirstFont; 
+    font-size: 80px;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.titlespacing{ 
+    position: relative; left: 400px; top: 30px;
+    color: rgb(66, 53, 53);
+    background-color: rgba(255, 255, 255, 0.553);
+}
+
+.anchoredlinks{ 
+    color: black;
+}
+
+.backgroundimage{ 
+    background-image: url(../assets/img/stackedbooks.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: 1500px 300px;
+    background-position: fixed;
+}
+
+@font-face{ 
+    font-family: myFirstFont;
+    src: url(../js/Kreon-Bold.ttf);
+}
+
+@font-face{ 
+    font-family: regfirstfont;
+    src: url(../js/Kreon-Regular.ttf);
+}
+
+
+.subheading1{ 
+    position: relative; right: 22px; top: 80px;
+    font-size: 20px;
+    font-family: regfirstfont;
+    color: rgb(66, 53, 53);
+    background-color: rgba(255, 255, 255, 0.553);
+}
+
+.articletext{ 
+    color: black;
+    font-family: regfirstfont;
+    font-size: 25px;
+}
+.articleposition{
+    margin-top: 150px;
+    margin-left: 330px;
+    margin-right: 330px;
+}
+
+.tab{
+    margin-left: 40px;
+}
+
+.lists{ 
+    border-style:groove;
+}
+
+.listsposition1{ 
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+.textbox{ 
+    list-style-type: none
+}
+
